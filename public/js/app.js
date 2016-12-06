@@ -1,0 +1,1 @@
+angular.module('viewApp', ['ngRoute', 'appRoutes', 'ContactCtrl','ContactService']);
